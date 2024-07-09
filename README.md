@@ -73,7 +73,8 @@ Welcome to my GitHub profile! I’m Rafay, an experienced software engineer spec
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rafayasad&repo=fitbond-backend)](https://github.com/Rafayasad/fitbond-backend)
+<p></p>
 
+![Rafay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafayasad&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafayasad)](https://github.com/Rafayasad/open-data-platform)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafayasad&layout=compact)
