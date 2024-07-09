@@ -2,7 +2,11 @@
 
 ## Welcome to My GitHub Profile!
 
-Welcome to my GitHub profile! I’m Rafay, an experienced software engineer specializing in building scalable and efficient full-stack applications. I thrive on solving complex problems and continuously expanding my knowledge in the world of technology.
+As a JavaScript developer, I possess a comprehensive skill set in building dynamic and scalable web applications. With
+expertise in React, Next, React-native, Node js, and relational / non-relational databases. I am well-versed in the entire
+development process, from designing and implementing databases to creating intuitive user interfaces. My proficiency extends to
+crafting efficient APIs, ensuring smooth server-side functionality, and delivering seamless front-end experiences. I am passionate about
+leveraging the power of these technologies to create innovative solutions that meet user needs and drive business success.
 
 ## Skills and Languages
 
