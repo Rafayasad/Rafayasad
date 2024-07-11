@@ -3,7 +3,7 @@
 ## Welcome to My GitHub Profile!
 
 As a JavaScript developer, I possess a comprehensive skill set in building dynamic and scalable web applications. With
-expertise in React, Next, React-native, Node js, and relational / non-relational databases. I am well-versed in the entire
+expertise in React, Next, React-native, Node js, and relational / non-relational databases. I am well-versed in the  
 development process, from designing and implementing databases to creating intuitive user interfaces. My proficiency extends to
 crafting efficient APIs, ensuring smooth server-side functionality, and delivering seamless front-end experiences. I am passionate about
 leveraging the power of these technologies to create innovative solutions that meet user needs and drive business success.
@@ -82,3 +82,11 @@ leveraging the power of these technologies to create innovative solutions that m
 ![Rafay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafayasad&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafayasad&layout=compact)
+
+## 🌐 Connect with me
+
+<a  href="https://www.linkedin.com/in/rafay-asad-87b39a213" target="_blank"><img align="left" alt="Rafay Asad LinkedIn" height="30px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+<a  href="https://www.instagram.com/rafayasad_?igsh=cmowa2JoZmwydXlj" target="_blank"><img align="left" alt="Rafay Asad Instagram" height="30px" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a  href="https://www.facebook.com/rafay.asad.1?mibextid=ZbWKwL" target="_blank"><img align="left" alt="Rafay Asad Facebook" height="30px" width="100px" src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a  href="mailto:asadrafay998@gmail.com" target="_blank"><img align="left" alt="Taimoor Nawaz Facebook" height="30px" width="100px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+
