@@ -16,6 +16,7 @@ leveraging the power of these technologies to create innovative solutions that m
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="typescript" width="40" height="40"/></a>
   
 #### 🌟 Frameworks and libraries
 
@@ -36,6 +37,7 @@ leveraging the power of these technologies to create innovative solutions that m
 </a><a href="https://reactnative.dev/" target="_blank">
   <img src="https://flyclipart.com/thumbs/react-native-logo-1451515.png" alt="reactnative" width="40" height="40"/>
 </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
+ <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn_3MFhCzXcwI3GWIDTsWJg2HXDTG7TwGovA&s" alt="fastapi" width="40" height="40"/> </a>
 
 #### 🌟 UI Frameworks
 
