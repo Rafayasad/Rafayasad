@@ -1,4 +1,4 @@
-## Hello 😀, I'm Rafay Asad | Software Engineer | JS | MERN | MEAN
+## Hello 😀, I'm Rafay Asad | Software Engineer | JS | PYTHON | NATIVE\HYBIRD APPS
 
 ## Welcome to My GitHub Profile!
 
